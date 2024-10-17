@@ -29,7 +29,13 @@ body {
 }
 .cr7 {
     width: 70%;
+
 }
+.cr7:hover {
+    -webkit-transform: scale(1.1);
+   transform: scale(1.05);
+}
+
 
 .left-panel {
     width: 75%;
@@ -96,11 +102,21 @@ h1 {
 .btn.login {
     background-color: #16558f;
     color: #fff;
+    
 }   
+.btn.login:hover {
+    -webkit-transform: scale(1.1);
+   transform: scale(1.1);
+}
 
 .btn.signup {
     background-color: #16558f;
     color: #fff;
+}
+
+.btn.signup:hover {
+    -webkit-transform: scale(1.1);
+   transform: scale(1.1);
 }
 
 .social-icons {
