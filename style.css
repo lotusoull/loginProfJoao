@@ -107,6 +107,7 @@ h1 {
 .btn.login:hover {
     -webkit-transform: scale(1.1);
    transform: scale(1.1);
+   background-color: #59a4cf;
 }
 
 .btn.signup {
@@ -117,6 +118,7 @@ h1 {
 .btn.signup:hover {
     -webkit-transform: scale(1.1);
    transform: scale(1.1);
+   background-color: #59a4cf;
 }
 
 .social-icons {
